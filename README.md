@@ -1,6 +1,6 @@
-# React Native Easy Grid 🐵
+# React Native Grid 
 
-This is NOT-JUST-ANOTHER-GRID-LAYOUT library! We are trying to simplify flexbox with easier approach.
+Grid layout from NativeBase with some fixes
 
 ## Installation
 
