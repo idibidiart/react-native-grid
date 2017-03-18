@@ -7,7 +7,7 @@ Currently, this only works inside a NativeBase component. The idea is to make it
 ## Installation
 
 ```
-npm install react-native-grid --save
+npm install react-native-grid-layout --save
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install react-native-grid --save
 ### Include the components
 
 ```
-import { Col, Row, Grid } from "react-native-grid";
+import { Col, Row, Grid } from "react-native-grid-layout";
 ```
 
 ### 1. Two columns (50% and 50%)
