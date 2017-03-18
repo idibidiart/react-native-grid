@@ -1,6 +1,6 @@
 {
-  "name": "react-native-grid",
-  "description": "Easy React Native Grid Layout",
+  "name": "react-native-grid-layout",
+  "description": "React Native Grid Layout",
   "version": "0.1.8",
   "private": false,
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GeekyAnts/react-native-grid.git"
+    "url": "https://github.com/idibidiart/react-native-grid.git"
   },
   "main": "index.js"
 }
