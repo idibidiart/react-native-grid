@@ -1,7 +1,7 @@
 {
   "name": "react-native-grid-layout",
   "description": "React Native Grid Layout",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": false,
   "dependencies": {
     "lodash": "^4.11.1"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/idibidiart/react-native-grid.git"
+    "url": "https://github.com/idibidiart/react-native-grid-layout.git"
   },
   "main": "index.js"
 }
