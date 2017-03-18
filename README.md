@@ -1,6 +1,8 @@
 # React Native Grid 
 
-Grid layout from NativeBase with some fixes
+Grid layout from NativeBase with some fixes.
+
+Currently, this only works inside a NativeBase component. The idea is to make it work in any React Native component.
 
 ## Installation
 
